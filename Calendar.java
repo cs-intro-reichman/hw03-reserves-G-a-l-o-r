@@ -32,7 +32,7 @@ public class Calendar {
 			debugDaysCounter++;
 			// if (debugDaysCounter == 5000) break;
 		}
-			// System.out.println("During the 20th century, "+SundayFirstDay+" Sundays fell on the first day of the month");
+			System.out.println("During the 20th century, "+SundayFirstDay+" Sundays fell on the first day of the month");
         }
 
 		
